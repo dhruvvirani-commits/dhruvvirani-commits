@@ -1,24 +1,21 @@
-# Hi there, I'm Dhruv 👋
+### Hi there, I'm Dhruv 👋
 
-**Master of Science in Artificial Intelligence Student @ ECE Paris**
+**MSc Artificial Intelligence @ ECE Paris | AI × FinTech**
 
-I am an AI engineering student and developer with a strong foundation in predictive modeling, algorithmic trading, and digital marketing. I focus on building scalable applications and practical data-driven tools. 
+I came to AI through financial markets — and I build practical, data-driven tools at the intersection of the two, turning years of self-taught market analysis into Python, machine learning, and quantitative work.
 
-### 🚀 What I'm Currently Working On
-* 📈 **Financial Modeling:** Developing a Bitcoin price trend predictor utilizing LSTM neural networks for advanced market analysis.
-* 📊 **Algorithmic Trading:** Writing and backtesting custom Pine Script indicators and execution strategies for TradingView.
-* 📚 **Software Architecture:** Recently completed a comprehensive, end-to-end library management system.
-* 💡 **E-commerce & Growth:** Leveraging expertise in Meta Ads and dropshipping to scale digital storefronts and analyze consumer data.
+#### 🔭 What I'm Working On
+- **Trading strategy engineering** — building and backtesting Smart Money Concepts strategies in Pine Script v5 (BTC, Gold, EUR/USD)
+- **Trade analytics** — a Python (pandas + matplotlib) tool that turns raw trade logs into performance metrics: win rate, R-multiples, drawdown, equity curves
+- **Market data analysis** — volatility, returns, and cross-asset correlation (BTC vs Nasdaq / Gold / DXY)
+- **Applied ML** — coursework in computer vision, data preparation, and machine learning at ECE Paris
 
-### 🛠️ Tech Stack & Tools
-* **Development:** GitHub, Jira, Notion
-* **AI & Machine Learning:** RAG Models, Claude, Mistral AI, Fliki
-* **Data & Markets:** Pine Script, Perpetual Futures Analysis (BTC/ETH)
+#### 🔧 Tech Stack
+- **Languages:** Python · SQL · Pine Script v5
+- **Data & ML:** pandas · matplotlib · NumPy
+- **Tools:** Git · Jupyter · Notion
 
-### 📫 Let's Connect
-* **Email:** dhruvfrance2026@gmail.com
-* **LinkedIn:** www.linkedin.com/in/dhruv-virani-262aa7371
-* **ORCID:** 0009-0007-6435-3904
-
----
-⭐️ *Constantly learning, building, and optimizing.* ```
+#### 📫 Let's Connect
+- **LinkedIn:** linkedin.com/in/dhruv-virani
+- **Email:** dhruv.virani127@gmail.com
+- **ORCID:** 0009-0007-6435-3904
