@@ -17,5 +17,5 @@ I came to AI through financial markets — and I build practical, data-driven to
 
 #### 📫 Let's Connect
 - **LinkedIn:** linkedin.com/in/dhruv-virani
-- **Email:** dhruv.virani127@gmail.com
+- **Email:** dhruvfrance2026@gmail.com
 - **ORCID:** 0009-0007-6435-3904
